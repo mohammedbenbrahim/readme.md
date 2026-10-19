@@ -39,8 +39,8 @@ I'm a passionate developer and tech enthusiast. Welcome to my GitHub profile!
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
-- **Twitter / X:** [Your Twitter Handle](https://twitter.com/your-handle)
-- **Website/Portfolio:** [Your Portfolio URL](https://your-portfolio.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-benbrahim-636456239/?isSelfProfile=true)
+- **Twitter / X:** [Your Twitter Handle](https://x.com/MedKaito)
+
 
 ⭐ *Feel free to check out my repositories and reach out if you want to collaborate on a project!*
